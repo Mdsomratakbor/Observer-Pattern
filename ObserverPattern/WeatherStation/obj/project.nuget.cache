@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8swvGubEOhwwcrJjpW0LNBqxFub+h+yD5gd62V+AMklg5CDzoZ5RGWhN03r6Em/Siz6N6qSWSkWM3lief9090Q==",
+  "dgSpecHash": "YE4ukMSLJBNqrNq+herEfkAwodDXljTenTRneP7y7xznvaykq3DbS/HWVgueHZFZY0cK0/1gnotJD+Dm235XlA==",
   "success": true,
-  "projectFilePath": "D:\\PersonalProject\\ObserverPattern\\ObserverPattern\\WeatherStation\\WeatherStation.csproj",
+  "projectFilePath": "E:\\PatternWorld\\Observer-Pattern\\ObserverPattern\\WeatherStation\\WeatherStation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

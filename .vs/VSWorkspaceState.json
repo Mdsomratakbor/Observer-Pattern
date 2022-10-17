@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ObserverPattern",
+    "\\ObserverPattern\\WeatherStation",
+    "\\ObserverPattern\\WeatherStation\\observers"
+  ],
+  "SelectedNode": "\\ObserverPattern\\WeatherStation\\observers\\CurrentConditionsDisplay.cs",
+  "PreviewInSolutionExplorer": false
+}

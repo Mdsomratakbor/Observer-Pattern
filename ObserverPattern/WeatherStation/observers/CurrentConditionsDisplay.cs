@@ -3,10 +3,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WeatherStation.interfaces;
+using WeatherStation.subjects;
 
 namespace WeatherStation.observers
 {
-    public class CurrentConditionsDisplay
+    public class CurrentConditionsDisplay : IObserver, IDisplayElement
     {
+        public float temparature;
+        public float humidity;
+        public WeatherData weatherData;
+        public CurrentConditionsDisplay(WeatherData weatherData) {
+            this.weatherData = weatherData;
+            this.weatherData.RegisterObserver(this);
+        }
+        public void Display()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(float temp, float humidity, float pressure)
+        {
+            Console.WriteLine($"Current Conditions: {temparature} F Degrees and {humidity} % {pressure}");
+        }
     }
 }
