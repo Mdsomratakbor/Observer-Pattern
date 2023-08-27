@@ -16,11 +16,13 @@ namespace WeatherStation.observers
         public CurrentConditionsDisplay(WeatherData weatherData) {
             this.weatherData = weatherData;
             this.weatherData.RegisterObserver(this);
+            Display();
         }
         public void Display()
         {
-            Console.WriteLine($"Current Conditions: {temparature} F Degrees and {humidity} % humidity");
+            Console.WriteLine($"Current Conditions: {temparature} °C and  {humidity} % humidity");
         }
+
 
         public void Update(float temp, float humidity, float pressure)
         {

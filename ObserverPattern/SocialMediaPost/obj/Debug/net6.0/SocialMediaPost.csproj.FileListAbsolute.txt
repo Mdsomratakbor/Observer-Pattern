@@ -1,0 +1,15 @@
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\bin\Debug\net6.0\SocialMediaPost.exe
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\bin\Debug\net6.0\SocialMediaPost.deps.json
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\bin\Debug\net6.0\SocialMediaPost.runtimeconfig.json
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\bin\Debug\net6.0\SocialMediaPost.dll
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\bin\Debug\net6.0\SocialMediaPost.pdb
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\obj\Debug\net6.0\SocialMediaPost.csproj.AssemblyReference.cache
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\obj\Debug\net6.0\SocialMediaPost.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\obj\Debug\net6.0\SocialMediaPost.AssemblyInfoInputs.cache
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\obj\Debug\net6.0\SocialMediaPost.AssemblyInfo.cs
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\obj\Debug\net6.0\SocialMediaPost.csproj.CoreCompileInputs.cache
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\obj\Debug\net6.0\SocialMediaPost.dll
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\obj\Debug\net6.0\refint\SocialMediaPost.dll
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\obj\Debug\net6.0\SocialMediaPost.pdb
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\obj\Debug\net6.0\SocialMediaPost.genruntimeconfig.cache
+D:\PersonalProject\ObserverPattern\ObserverPattern\SocialMediaPost\obj\Debug\net6.0\ref\SocialMediaPost.dll

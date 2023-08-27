@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PersonalProject\\ObserverPattern\\ObserverPattern\\WeatherStation\\WeatherStation.csproj",
-      "projectName": "WeatherStation",
-      "projectPath": "D:\\PersonalProject\\ObserverPattern\\ObserverPattern\\WeatherStation\\WeatherStation.csproj",
+      "projectUniqueName": "D:\\PersonalProject\\ObserverPattern\\ObserverPattern\\SocialMediaPost\\SocialMediaPost.csproj",
+      "projectName": "SocialMediaPost",
+      "projectPath": "D:\\PersonalProject\\ObserverPattern\\ObserverPattern\\SocialMediaPost\\SocialMediaPost.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\PersonalProject\\ObserverPattern\\ObserverPattern\\WeatherStation\\obj\\",
+      "outputPath": "D:\\PersonalProject\\ObserverPattern\\ObserverPattern\\SocialMediaPost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
