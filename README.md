@@ -55,4 +55,16 @@ This project illustrates the Observer Pattern with a weather monitoring scenario
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/observer-pattern-project.git
+   git clone [https://github.com/Mdsomratakbor/Observer-Pattern.git](https://github.com/Mdsomratakbor/Observer-Pattern.git)https://github.com/Mdsomratakbor/Observer-Pattern.git
+
+## Contributing
+Contributions are welcome! If you find any issues or improvements, feel free to submit a pull request.
+
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature/your-feature.
+3. Commit your changes: git commit -m 'Add a new feature'.
+4. Push to the branch: git push origin feature/your-feature.
+5. Open a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
