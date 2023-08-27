@@ -8,12 +8,12 @@ using WeatherStation.subjects;
 
 namespace WeatherStation.observers
 {
-    public class CurrentConditionsDisplay : IObserver, IDisplayElement
+    public class StatisticalDisplay : IObserver, IDisplayElement
     {
         public float temparature;
         public float humidity;
         public WeatherData weatherData;
-        public CurrentConditionsDisplay(WeatherData weatherData) {
+        public StatisticalDisplay(WeatherData weatherData) {
             this.weatherData = weatherData;
             this.weatherData.RegisterObserver(this);
         }

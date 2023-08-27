@@ -43,7 +43,7 @@ namespace WeatherStation.subjects
         public void SetMeasurements(float temperature, float humidity, float pressure)
         {
             this.temperature = temperature;
-            this.humidity = humidity;
+            this.humidity = humidity; 
             this.pressure = pressure;
             MeasurementsChanged();
         }
