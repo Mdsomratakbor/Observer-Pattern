@@ -55,7 +55,7 @@ This project illustrates the Observer Pattern with a weather monitoring scenario
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Mdsomratakbor/Observer-Pattern.git](https://github.com/Mdsomratakbor/Observer-Pattern.git)https://github.com/Mdsomratakbor/Observer-Pattern.git
+   git clone (https://github.com/Mdsomratakbor/Observer-Pattern.git)https://github.com/Mdsomratakbor/Observer-Pattern.git
 
 ## Contributing
 Contributions are welcome! If you find any issues or improvements, feel free to submit a pull request.
