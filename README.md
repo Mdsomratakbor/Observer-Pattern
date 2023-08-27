@@ -1,4 +1,4 @@
-# Observer Pattern Project
+# Observer Pattern
 
 The Observer Pattern Project demonstrates the implementation of the Observer Pattern in a software application. This pattern facilitates communication between objects in a loosely coupled manner, promoting flexibility and modularity.
 
